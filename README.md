@@ -1,4 +1,4 @@
-![sanborn](https://raw.githubusercontent.com/cam-rodriguez/sanborn/main/01790_09_1894-0000.jpg)
+![sanborn header](https://raw.githubusercontent.com/cam-rodriguez/sanborn/main/01790_09_1894-0000.jpg)
 # sanborn ️‍🔥️‍🔥️‍🔥
 digitized sanborn fire insurance maps, in .shp or .geojson format (probs). chicago-focused, chicago-made!
 ***
@@ -21,3 +21,5 @@ It's a SECRET!! you'll find out when I start to upload stuff. :-)
 ## okay, right. how can i get in touch? i have questions/comments/advice/etc!
 Send me a DM on [Twitter](https://twitter.com/journo_cam), and I'll get on it! Also crodri93 at depaul dot edu is a great place to start, too. 
 
+
+![sanborn key from library of congress](https://www.loc.gov/rr/geogmap/sanborn/images/sankey22c.jpg)
