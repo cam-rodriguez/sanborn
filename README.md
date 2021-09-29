@@ -18,7 +18,7 @@ Then I'll load them in to QGIS, typically in batches of about ten. From there, I
 I'm still getting through georeferencing, and that'll likely take a while. I've been getting creative with file management and creating clean packages to upload here based on how Sanborn organizes their data and what makes the most sense for the modern day, so that's the main thing here. I'll likely upload by neighborhood!
 ***
 ## okay so when are you focusing on? 
-It's a SECRET!! you'll find out when I start to upload stuff. :-)
+It's a SECRET!! you'll find out when I start to upload stuff. :-) (or check out the header for hints)
 ***
 ## okay, right. how can i get in touch? i have questions/comments/advice/etc!
 Send me a DM on [Twitter](https://twitter.com/journo_cam), and I'll get on it! Also crodri93 at depaul dot edu is a great place to start, too. 
